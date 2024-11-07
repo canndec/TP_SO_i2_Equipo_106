@@ -1,3 +1,17 @@
 Matias Pastrana(BETA)
 Adolfo Pumacayo(ALFA)
 Candela Corral(GAMMA)
+
+a: ¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK? 
+
+ -> git remote add upstream URL (configurar el repositorio original como remoto)
+
+ -> git fetch upstream (actualiza el repo local al que se hizo el fork)
+
+ -> git checkout main (chequear la rama en la que se trabaja)
+
+ -> git merge upstream/main
+
+ -> git push origin main (sube los cambios a nuestro repo)
+
+b: ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
