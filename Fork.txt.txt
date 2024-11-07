@@ -1,0 +1,4 @@
+Nombre: Candela
+Apellido: Corral
+IP: 192.168.1.33
+Hora: 09:42
