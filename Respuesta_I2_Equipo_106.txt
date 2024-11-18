@@ -1,5 +1,5 @@
-Matias Pastrana(BETA)
 
+Candela Corral(GAMMA)
 a: ¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK? 
 
  -> git remote add upstream URL (configurar el repositorio original como remoto)
@@ -12,6 +12,7 @@ a: ¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
 
  -> git push origin main (sube los cambios a nuestro repo)
 
+Matias Pastrana(BETA)
 b: ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 no
 
@@ -45,4 +46,4 @@ e-  Realizar un listado, paso a paso ,de los comando necesarios para resolver es
         3-$ git push --force origin main
 
 
-Candela Corral(GAMMA)
+
